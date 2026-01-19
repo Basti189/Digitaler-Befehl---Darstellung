@@ -3,6 +3,8 @@
 Kleine statische Testseite zur Reproduktion eines Viewport-Checks (z. B. `window.innerWidth < 360`) für die Darstellungsanforderung des **Digitale Befehls**.
 Praktisch zum Nachstellen auf Geräten wie dem Samsung xCover 5, wenn die Anwendung wegen zu kleiner Viewport-Breite blockiert.
 
+https://basti189.github.io/Digitaler-Befehl---Darstellung/
+
 ## Projektkontext
 
 Der **Digitale Befehl** ist ein Projekt der **Deutschen Bahn**.
